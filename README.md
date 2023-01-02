@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nukaraju Neradabilli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://tenor.com/bPuhb.gif)">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/105122223/210213848-580263d3-77da-40da-8aa7-04a3d00c0c2b.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nukaraju2003&label=Profile%20views&color=0e75b6&style=flat" alt="nukaraju2003" /> </p>
 
