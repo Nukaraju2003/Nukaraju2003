@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nukaraju Neradabilli</h1>
-<h3 align="center">Skilled Data Scientist with expertise in Machine Learning, NLP, and Deep Learning.</h3>
+<h3 align="center">TriVeda Technologies | Aspiring Data Scientist with Strong Skills in ML, Deep Learning, NLP, Python, DSA, and Java (6+ Months Experience)</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-96461712,width-200,height-150/news/international/us/greynoise-intelligence-gives-insights-into-threat-detection-events-via-2022-mass-exploitation-report.jpg")
 
 
