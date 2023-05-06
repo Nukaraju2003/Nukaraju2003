@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Nukaraju Neradabilli</h1>
 <h3 align="center">TriVeda Technologies | Aspiring Data Scientist with Strong Skills in ML, Deep Learning, NLP, Python, DSA, and Java (6+ Months Experience)</h3>
-<img align="left" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-96461712,width-200,height-150/news/international/us/greynoise-intelligence-gives-insights-into-threat-detection-events-via-2022-mass-exploitation-report.jpg")
+<img align="center" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-96461712,width-200,height-150/news/international/us/greynoise-intelligence-gives-insights-into-threat-detection-events-via-2022-mass-exploitation-report.jpg")
 
 
 - 🔭 I’m currently working on [REVOLUTIONIZING COMMUNICATION: Bridging the Language Barrier with AI- Powered Translation via Telephone Calls](https://www.canva.com/design/DAFand2SQqI/qMxOxDmTEdBEMfBLGP1dlQ/view?utm_content=DAFand2SQqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **neradabillinukaraju@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RG5ofAnn446ZqzM6GxOU0GDJ_0PToR3Y/view?usp=sharing](https://drive.google.com/file/d/1RG5ofAnn446ZqzM6GxOU0GDJ_0PToR3Y/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17s85CXfBXXPvSjJsOQd7mvbTZt0cBI2q/view?usp=sharing](https://drive.google.com/file/d/1RG5ofAnn446ZqzM6GxOU0GDJ_0PToR3Y/view?usp=sharing)
 
 - ⚡ Fun fact **Happy Ga Undu Mowa 🕺🤘**
 
