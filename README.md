@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nukarajuneradabilli/](https://www.linkedin.com/in/nukarajuneradabilli/)
+- 👨‍💻 All of my projects are available at [https://github.com/Nukaraju2003](https://github.com/Nukaraju2003)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, Python, C, Java, Python, DSA, DBMS, SQL, ML, Web Scraping, Data Analysis**
 
