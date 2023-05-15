@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Nukaraju Neradabilli</h1>
 <h3 align="center">TriVeda Technologies | Aspiring Data Scientist with Strong Skills in ML, Deep Learning, NLP, Python, DSA, and Java (6+ Months Experience)</h3>
-<img align="right" alt="Coding" width="300" src="https://www.simplilearn.com/tutorials/java-tutorial/methods-in-java")>
+<img align="right" alt="Coding" width="300" src="https://www.simplilearn.com/tutorials/java-tutorial/methods-in-java">
 
 
 - 🔭 I’m currently working on [REVOLUTIONIZING COMMUNICATION: Bridging the Language Barrier with AI- Powered Translation via Telephone Calls](https://www.canva.com/design/DAFand2SQqI/qMxOxDmTEdBEMfBLGP1dlQ/view?utm_content=DAFand2SQqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
