@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/nukarajuneradabilli/">
-  <img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1687996800&v=beta&t=mWKmsDrJpcZwS6G9FW8Ig99-19k7U6NvwHgULKCFxsE" width="800" height="300">
+  <img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1687996800&v=beta&t=mWKmsDrJpcZwS6G9FW8Ig99-19k7U6NvwHgULKCFxsE" width="1128" height="191">
 </a>
 
 
