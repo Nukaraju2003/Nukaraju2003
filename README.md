@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="440" src="https://www.datatobiz.com/wp-content/uploads/2022/08/Blog-Featured-Images-GIF-5.gif">
 
 
-- 🔭 I’m currently working on [REVOLUTIONIZING COMMUNICATION: Bridging the Language Barrier with AI- Powered Translation via Telephone Calls](https://www.canva.com/design/DAFand2SQqI/qMxOxDmTEdBEMfBLGP1dlQ/view?utm_content=DAFand2SQqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🔭 I’m currently working on [REVOLUTIONIZING COMMUNICATION: Bridging the Language Barrier with AI-Powered Translation via Telephone Calls](https://www.canva.com/design/DAFand2SQqI/qMxOxDmTEdBEMfBLGP1dlQ/view?utm_content=DAFand2SQqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 🌱 I’m currently learning **NLP**
 
