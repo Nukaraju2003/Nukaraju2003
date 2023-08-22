@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FitAI : AR-style Recommender & try-On**
 
-- 🌱 I’m currently learning **Cracking DSA with Java**
+- 🌱 I'm currently studying  **Data Structures and Algorithms with Java.**
 
 - 👯 I’m looking to collaborate on [REVOLUTIONIZING COMMUNICATION: Bridging the Language Barrier with AI- Powered Translation via Telephone Calls](https://www.canva.com/design/DAFand2SQqI/qMxOxDmTEdBEMfBLGP1dlQ/view?utm_content=DAFand2SQqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
