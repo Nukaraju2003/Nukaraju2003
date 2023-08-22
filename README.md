@@ -1,3 +1,5 @@
+![logo](https://github.com/Nukaraju2003/Nukaraju2003/blob/main/Copy%20of%20h.jpg)
+
 <h1 align="center">Hi 👋, I'm Nukaraju Neradabilli</h1>
 <h3 align="center">TriVeda Innovates | Aspiring Data Scientist | Machine Learning Engineer | NLP Engineer | Python | Deep Learning | AI Enthusiast | Java for DSA Learner</h3>
 
