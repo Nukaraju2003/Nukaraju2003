@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/nukarajuneradabilli/">
+  <img src="https://github.com/Nukaraju2003/Nukaraju2003/blob/main/pic.gif" width="1128" height="220">
+</a>
 ![logo](https://github.com/Nukaraju2003/Nukaraju2003/blob/main/pic.gif)
 
 <h1 align="center">Hi 👋, I'm Nukaraju Neradabilli</h1>
