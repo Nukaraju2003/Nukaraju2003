@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/nukarajuneradabilli/">
-  <img src="https://github.com/Nukaraju2003/Nukaraju2003/blob/main/pic.gif" width="1128" height="240">
+  <img src="#" width="1128" height="240">
 </a>
 <!-- ![logo](https://github.com/Nukaraju2003/Nukaraju2003/blob/main/pic.gif) -->
 
