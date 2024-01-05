@@ -1,8 +1,6 @@
 <a href="https://www.linkedin.com/in/nukarajuneradabilli/">
-  <img src="#" width="1128" height="240">
+  <img src="https://pbs.twimg.com/profile_banners/1172589427203297280/1576276031/1500x500" width="1128" height="240">
 </a>
-![logo](https://github.com/Nukaraju2003/Nukaraju2003/blob/main/pic.gif)
-
 <h1 align="center">Hi 👋, I'm Nukaraju Neradabilli</h1>
 <h3 align="center">TriVeda Innovates | Aspiring Data Scientist | Machine Learning Engineer | NLP Engineer | Python | Deep Learning | AI Enthusiast | Java for DSA Learner</h3>
 
