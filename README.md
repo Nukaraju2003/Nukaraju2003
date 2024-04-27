@@ -2,15 +2,11 @@
   <img src="https://pbs.twimg.com/profile_banners/1172589427203297280/1576276031/1500x500" width="1128" height="240">
 </a>
 <h1 align="center">Hi 👋, I'm Nukaraju Neradabilli</h1>
-<h3 align="center">TriVeda Innovates | Aspiring Data Scientist | Machine Learning Engineer | NLP Engineer | Python | Deep Learning | AI Enthusiast | Java for DSA Learner</h3>
+<h3 align="center">ML & NLP Engineer | Aspiring Data Scientist</h3>
 
 <img align="right" alt="Coding" width="440" src="https://www.datatobiz.com/wp-content/uploads/2022/08/Blog-Featured-Images-GIF-5.gif">
 
-- 🔭 I’m currently working on **FitAI : AR-style Recommender & try-On**
-
 - 🌱 I'm currently studying  **Data Structures and Algorithms with Java.**
-
-- 👯 I’m looking to collaborate on [REVOLUTIONIZING COMMUNICATION: Bridging the Language Barrier with AI- Powered Translation via Telephone Calls](https://www.canva.com/design/DAFand2SQqI/qMxOxDmTEdBEMfBLGP1dlQ/view?utm_content=DAFand2SQqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nukaraju2003](https://github.com/Nukaraju2003)
 
